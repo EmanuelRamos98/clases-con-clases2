@@ -23,6 +23,7 @@ class Piso{
     }
 }
 
+console.log("vino otra persona y cambio esto");
 
 class Edificio{
     pisos:Piso[];
